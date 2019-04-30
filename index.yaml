@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  launchpad.1:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: 2019-04-30T15:14:22.541128648+05:30
+    description: A Helm chart for Kubernetes
+    digest: ff2f57cca53c6d10e88e8acc5626421aa5861d410d1db284c615193ccc8c63b1
+    name: launchpad.1
+    urls:
+    - launchpad.1-0.1.0.tgz
+    version: 0.1.0
+generated: 2019-04-30T15:14:22.539878582+05:30
